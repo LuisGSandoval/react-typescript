@@ -1,3 +1,5 @@
+This is just a template I've created with create-react-app using typescript, react router dom, a store management(useReducer) logic and react-bootstrap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
